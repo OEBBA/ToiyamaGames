@@ -2,11 +2,14 @@
   "name": "3dfolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://oebba.github.io/ToiyamaGames",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "vite build",
+    "deploy": "vite build && gh-pages -d dist"
   },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
@@ -14,6 +17,7 @@
     "@react-three/fiber": "^8.15.11",
     "bootstrap": "^5.3.2",
     "framer-motion": "^9.1.7",
+    "gh-pages": "^6.1.0",
     "install": "^0.13.0",
     "maath": "^0.5.3",
     "npm": "^10.2.4",
