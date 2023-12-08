@@ -7,7 +7,7 @@ const KrpgInfo = () => {
     name: "KonohaRPG Discord Bot",
     portraitUrl: "https://media.discordapp.net/attachments/1035707553004396592/1178922004674510848/krpg.webp?ex=6577e7ad&is=656572ad&hm=74b48b632fd1cb68581a2f64c0576c0b525261465c498870814c985dc0d436f4&=&format=webp&width=256&height=256",
     supportServerLink: "https://discord.com/invite/Fxek2HEJKF",
-    inviteLink: "https://discord.com/oauth2/authorize?client_id=760390264425545729&scope=bot&permissions=268443648",
+    inLink: "https://discord.com/oauth2/authorize?client_id=760390264425545729&scope=bot&permissions=268443648",
   };
 
   return (
