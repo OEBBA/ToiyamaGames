@@ -1,0 +1,9 @@
+.btn-discord {
+    background-color: #7289DA; /* Discord's blue color */
+    color: #FFFFFF; /* White text */
+  }
+  
+  .btn-discord:hover {
+    background-color: #677bc4; /* Slightly darker blue on hover */
+  }
+  
