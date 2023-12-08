@@ -2,7 +2,7 @@
   "name": "3dfolio",
   "private": false,
   "version": "0.0.0",
-  "homepage": "https://oebba.github.io/ToiyamaGames",
+  "homepage": "https://oebba.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
